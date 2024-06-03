@@ -1,0 +1,1 @@
+Let's delve into the world of JavaScript with in-depth notes. This thorough learning experience will provide you with a comprehensive understanding of JavaScript, sparking your curiosity and keeping you engaged.
