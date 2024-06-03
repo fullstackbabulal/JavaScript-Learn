@@ -1,4 +1,8 @@
+
+/* Keep in mind that once you've set a value with 'const ', it's like a promise that you won't change it. It is like a permanent tattoo.
+ */
 const accountId = 58463846;
+
 let accountEmail = "fullstack.babulal@gmail.com";
 var accountPassword = "8579415568@FSBgc";
 accountCity = "Malda";
@@ -7,7 +11,7 @@ accountCity = "Malda";
 
 let accountState;
 
-/* Remember that you cannot change or update variables that are declared with const. */
+
 
 //accountId = 2;
 
